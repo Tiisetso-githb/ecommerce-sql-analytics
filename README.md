@@ -32,7 +32,7 @@ The database consists of **5 interconnected tables** with enforced Primary Keys,
 
 ---
 
-## Example Business Insights (From `queries.sql`)
+## Business Insights (From `queries.sql`)
 - **Customer Lifetime Value:** Aggregated total spend per customer to identify top-tier buyers.
 - **Inventory Health:** Filtered stock quantities to flag items falling below specific inventory thresholds.
 - **Category Performance:** Computed total revenue generated per product category to highlight top-performing departments.
