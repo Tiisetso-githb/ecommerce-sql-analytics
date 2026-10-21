@@ -37,5 +37,6 @@ The database consists of **5 interconnected tables** with enforced Primary Keys,
 - **Inventory Health:** Filtered stock quantities to flag items falling below specific inventory thresholds.
 - **Category Performance:** Computed total revenue generated per product category to highlight top-performing departments.
 
-  Author
-  Tiisetso Matabane
+ ## Author
+
+**Tiisetso Matabane**
